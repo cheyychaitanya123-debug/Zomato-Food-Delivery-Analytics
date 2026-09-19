@@ -264,24 +264,6 @@ Food-Delivery-Analytics/
 ├── .gitignore
 └── README.md
 ```
-
-### 🔹 Power BI
-
-The Power BI report contains the interactive dashboard used to analyze:
-
-* Total Orders
-* Average Delivery Time
-* Average Rating
-* Delayed Orders
-* Delayed Order %
-* Delivery performance by traffic
-* Delivery performance by weather
-* Delivery performance by city
-* Delivery performance by vehicle type
-* Multiple deliveries and delivery time
-* Order-hour analysis
-* Delivery time and customer ratings
-
 ````
 # 🚀 Project Skills Demonstrated
 
