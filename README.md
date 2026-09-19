@@ -263,7 +263,6 @@ Food-Delivery-Analytics/
 │
 ├── .gitignore
 └── README.md
-```
 ````
 # 🚀 Project Skills Demonstrated
 
@@ -281,9 +280,7 @@ This project demonstrates practical experience with:
 * Power Query
 * Operational analysis
 * Translating data into business insights
-
 ---
-
 ## 👤 Author
 
 **Chaitanya Reddy Gummalla**
